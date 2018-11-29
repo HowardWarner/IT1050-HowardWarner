@@ -1,3 +1,0 @@
-﻿1>------ Build started: Project: LabWK11, Configuration: Debug Any CPU ------
-1>LabWK11 -> C:\Users\Hlwar\source\repos\LabWK11\LabWK11\bin\Debug\netcoreapp2.1\LabWK11.dll
-========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
