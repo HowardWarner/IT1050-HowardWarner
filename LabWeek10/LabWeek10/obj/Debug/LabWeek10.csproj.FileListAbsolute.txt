@@ -1,0 +1,2 @@
+C:\Users\WARNER\source\repos\LabWeek10\LabWeek10\obj\Debug\LabWeek10.csprojAssemblyReference.cache
+C:\Users\WARNER\source\repos\LabWeek10\LabWeek10\obj\Debug\LabWeek10.csproj.CoreCompileInputs.cache
